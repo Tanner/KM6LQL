@@ -2,7 +2,7 @@
 layout: post
 title: Hello!
 date: 2017-07-19 18:55
-categories: meta
+tags: meta
 ---
 
 Hello! My name is Tanner Smith and this is my amateur radio blog!
