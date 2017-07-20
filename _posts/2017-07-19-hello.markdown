@@ -1,0 +1,14 @@
+---
+layout: post
+title: Hello!
+date: 2017-07-19 18:55
+categories: meta
+---
+
+Hello! My name is Tanner Smith and this is my amateur radio blog!
+
+Or shall I say, rather appropriately, KM6LQL. I got my Technician license last Saturday. 🎉
+
+I intend this for this blog to just be amateur radio, anything else will be over at my [personal blog](tannersmith.me).
+
+I've got a few more posts lined up, so stay tuned!
